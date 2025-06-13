@@ -47,14 +47,6 @@ A quick reference guide for essential terminal commands, Git workflows, and VS C
 
 ---
 
-## 📚 Pushing a Subtree (e.g., docs)
-
-```bash
-📂 git subtree push --prefix docs origin gh-pages
-```
-
----
-
 ## 🚧 Create a New Git Project
 
 ```bash
@@ -73,9 +65,8 @@ A quick reference guide for essential terminal commands, Git workflows, and VS C
 🌿 git branch                       → List all branches
 🌱 git checkout -b <branch>         → Create and switch branch
 ✍️ git commit -a                    → Commit changes to tracked files
-🔙 git checkout master              → Switch to master
+🔙 git checkout main                → Switch to main
 🔗 git merge <branch>               → Merge branch into current
-📥 git pull . <branch>              → Merge from local branch (older Git versions)
 ✏️ git branch -m <old> <new>        → Rename a branch
 ```
 
@@ -90,15 +81,6 @@ A quick reference guide for essential terminal commands, Git workflows, and VS C
 📚 Toggle Sidebar:        Cmd + B          | Ctrl + B
 🎛️ Command Palette:       Shift + Cmd + P  | Shift + Ctrl + P
 ```
-
----
-
-## 💡 Command Palette Pro Tips
-
-- 🔍 Find files or projects by name
-- ⏪ Switch between recent files
-- ⚙️ Search settings and commands
-- ❓ Type `?` in the palette for a full list of available actions
 
 ---
 

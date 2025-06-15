@@ -9,6 +9,7 @@ A quick reference guide for essential terminal commands, Git workflows, and VS C
 ```bash
 📂 pwd              → Print working directory
 * 📁 ls               → List files
+* 📁 mv               → Move file or directory
 * 🚪 cd <dir>         → Change directory
 🏠 cd ~             → Home directory
 ⬆️  cd ..            → Move up one level

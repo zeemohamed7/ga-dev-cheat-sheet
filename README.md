@@ -15,6 +15,7 @@ A quick reference guide for essential terminal commands, Git workflows, and VS C
 ↩️  cd -             → Previous directory
 
 ❓ help / -h / --help / man   → Show help/manual
+📄 touch <file>     → Create a file
 📄 cat <file>       → Show file contents
 📦 mkdir <dir>      → Create new directory
 🖱️ open <file/dir>  → Open file/dir/URL in default app

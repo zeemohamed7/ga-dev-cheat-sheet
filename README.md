@@ -8,7 +8,7 @@ A quick reference guide for essential terminal commands, Git workflows, and VS C
 
 ```bash
 📂 pwd              → Print working directory
-* 📁 ls               → List files
+* 📁 ls               → List files *
 * 🚪 cd <dir>         → Change directory
 🏠 cd ~             → Home directory
 ⬆️  cd ..            → Move up one level
@@ -21,8 +21,8 @@ A quick reference guide for essential terminal commands, Git workflows, and VS C
 🖱️ open <file/dir>  → Open file/dir/URL in default app
 👀 ps               → List running processes
 🛑 kill <PID>       → Terminate a process by ID
-🗑️ rm <file>        → Delete a file
-🧹 rmdir <dir>      → Remove empty directory
+* 🗑️ rm <file>        → Delete a file
+* 🧹 rmdir <dir>      → Remove empty directory
 ```
 
 ---

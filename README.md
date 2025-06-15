@@ -8,7 +8,7 @@ A quick reference guide for essential terminal commands, Git workflows, and VS C
 
 ```bash
 📂 pwd              → Print working directory
-* 📁 ls               → List files *
+* 📁 ls               → List files
 * 🚪 cd <dir>         → Change directory
 🏠 cd ~             → Home directory
 ⬆️  cd ..            → Move up one level

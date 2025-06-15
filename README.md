@@ -8,16 +8,16 @@ A quick reference guide for essential terminal commands, Git workflows, and VS C
 
 ```bash
 📂 pwd              → Print working directory
-📁 ls               → List files
-🚪 cd <dir>         → Change directory
+* 📁 ls               → List files
+* 🚪 cd <dir>         → Change directory
 🏠 cd ~             → Home directory
 ⬆️  cd ..            → Move up one level
 ↩️  cd -             → Previous directory
 
 ❓ help / -h / --help / man   → Show help/manual
-📄 touch <file>     → Create a file
+* 📄 touch <file>     → Create a file
 📄 cat <file>       → Show file contents
-📦 mkdir <dir>      → Create new directory
+* 📦 mkdir <dir>      → Create new directory
 🖱️ open <file/dir>  → Open file/dir/URL in default app
 👀 ps               → List running processes
 🛑 kill <PID>       → Terminate a process by ID
